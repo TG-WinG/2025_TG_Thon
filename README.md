@@ -36,6 +36,7 @@
 
 ### 이게 왜 되지?
 
+https://github.com/TG-WhyItWorks
 
 ### 한미독정상회담
 
@@ -48,17 +49,23 @@
 
 ### 공육공육공
 
+https://github.com/wmfrjdna630/TGthon
 
 ### 정민재
 
+https://github.com/pataegonia/CourseMos_FE
+https://github.com/pataegonia/CourseMos_BE
 
 ### 디딤돌
 
 
 ### 나는 solo
 
+https://github.com/yuchanjeong1014/must-khu-know
 
 ### 강은석
+
+https://github.com/Eunseok0604/2025TGThon
 
 
 ## 평가단
