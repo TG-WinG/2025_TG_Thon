@@ -45,7 +45,8 @@ https://github.com/TG-WhyItWorks
 
 
 ### 티지직
-
+https://github.com/TGthon/FE
+https://github.com/TGthon/BE
 
 ### 공육공육공
 
