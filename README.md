@@ -42,7 +42,7 @@ https://github.com/TG-WhyItWorks
 
 
 ### phoTo
-
+https://github.com/AppleFinder/phoTo-client
 
 ### 티지직
 https://github.com/TGthon/FE
