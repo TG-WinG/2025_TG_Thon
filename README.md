@@ -38,10 +38,10 @@
 
 https://github.com/TG-WhyItWorks
 
-### 한미독정상회담
+### 한미독정상회담(기권)
 
 
-### phoTo
+### phoTo(기권)
 https://github.com/AppleFinder/phoTo-client
 
 ### 티지직
@@ -57,7 +57,7 @@ https://github.com/wmfrjdna630/TGthon
 https://github.com/pataegonia/CourseMos_FE
 https://github.com/pataegonia/CourseMos_BE
 
-### 디딤돌
+### 디딤돌(기권)
 
 
 ### 나는 solo
