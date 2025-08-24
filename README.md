@@ -54,7 +54,7 @@ https://github.com/wmfrjdna630/TGthon
 
 ### 정민재
 
-https://github.com/pataegonia/CourseMos_FE
+https://github.com/pataegonia/CourseMos_BE
 https://github.com/k3vin7/coursemos_fe_m
 
 ### 디딤돌(기권)
