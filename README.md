@@ -60,7 +60,7 @@ https://github.com/k3vin7/coursemos_fe_m
 ### 디딤돌(기권)
 
 
-### 나는 solo
+### 나는 solo(기권)
 
 https://github.com/yuchanjeong1014/must-khu-know
 
